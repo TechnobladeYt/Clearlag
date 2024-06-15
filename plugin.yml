@@ -1,0 +1,6 @@
+name: ClearLagPE
+main: CLPE/clearlagmain/main
+version: 0.1.0
+api: [2.0.0]
+author: Dream25_chanYt
+description: Make yor server lag free!!
